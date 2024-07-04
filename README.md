@@ -1,7 +1,7 @@
 # Pizza_Sales_Analysis_SQL
 
 In this project, I have followed a systematic approach to analyze the pizza sales data and derive meaningful insights.
-The pizza sales data used in this analysis is collected from Kaggle. The link to the dataset is : https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
+The pizza sales data used in this analysis is collected from Kaggle. The link to the dataset is : https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
 
 This pizza sales dataset has various features.
 
