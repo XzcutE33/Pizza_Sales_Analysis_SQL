@@ -5,9 +5,9 @@ The pizza sales data used in this analysis is collected from Kaggle. The link to
 
 This pizza sales dataset has various features.
 
-pizza_id: The unique identifier for each pizza in the dataset.
-order_id: The unique identifier for each pizza order.
-pizza_name_id: The identifier for each specific pizza name.
+pizza_id: The unique identifier for each pizza in the dataset. /n
+order_id: The unique identifier for each pizza order. /n
+pizza_name_id: The identifier for each specific pizza name. /n
 quantity: The number of pizzas ordered in each transaction.
 order_date: The date when the pizza order was placed.
 order_time: The time at which the pizza order was placed.
