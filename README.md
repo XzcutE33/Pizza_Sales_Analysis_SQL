@@ -5,18 +5,30 @@ The pizza sales data used in this analysis is collected from Kaggle. The link to
 
 This pizza sales dataset has various features.
 
-pizza_id: The unique identifier for each pizza in the dataset. /n
-order_id: The unique identifier for each pizza order. /n
-pizza_name_id: The identifier for each specific pizza name. /n
+pizza_id: The unique identifier for each pizza in the dataset. 
+<br>
+order_id: The unique identifier for each pizza order.
+<br>
+pizza_name_id: The identifier for each specific pizza name.
+<br>
 quantity: The number of pizzas ordered in each transaction.
+<br>
 order_date: The date when the pizza order was placed.
+<br>
 order_time: The time at which the pizza order was placed.
+<br>
 unit_price: The price of a single unit of pizza.
+<br>
 total_price: The total price of the pizza order, calculated as the unit price multiplied by the quantity.
-pizza_size: The size or dimensions of the pizza. (S,M,L,XL,XXL)
+<br>
+pizza_size: The size or dimensions of the pizza. (S,M,L,XL)
+<br>
 pizza_category: The category or classification of the pizza, indicating its type or style. (Classic, Veggie, Supreme, Chicken)
+<br>
 pizza_ingredients: The list of ingredients used in the pizza preparation.
+<br>
 pizza_name: The name or label assigned to each specific pizza.
+<br>
 
 I have used SQL queries to extract relevant information from the dataset. This involved querying the database to obtain insights into customer preferences, revenue generation, and order patterns.
  
